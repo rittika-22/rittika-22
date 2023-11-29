@@ -1,0 +1,53 @@
+#hole{
+    margin:10px ;
+    padding: auto;
+}
+::part-1{
+    display:flex ;
+    justify-content: space-between;
+}
+#information{
+    text-align: left;
+    font-size: 20px;
+}
+img{
+    box-shadow: 5px 5px 5px color(srgb red green blue);
+    border-radius: 5%;
+    margin-top: -0.025px;
+    float: right;
+    height: 200px;
+    width: 250px;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: auto;
+}
+td,th{
+    border: 1px solid black;
+    padding: 2px;
+    text-align:center ;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    background-color: rgb(180, 84, 120);
+    width: 400px;
+    text-align: center;
+    
+}
+h1{
+    font-size: 50px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#cv{
+    margin: 2% 10% 10%;
+    border: 2px solid black;
+}
+#im{
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
